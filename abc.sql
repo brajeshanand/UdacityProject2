@@ -1,3 +1,1 @@
-select * from dual33;
-
-
+select * from dual332;
